@@ -9,7 +9,7 @@ mkdir src
 mkdir test
 
 # Creating Virtual Environment
-python -m venv env
+python3 -m venv env
 source env/bin/activate
 PYTHON=env/bin/python
 
